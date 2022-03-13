@@ -7,11 +7,8 @@ An Instagram and Facebook filter to recall our favourite games we played in our 
 The filter is published on Instagram and Facebook with the name "[`Nostalgic Game`](https://www.instagram.com/ar/340625824676556/)" so you can use the filter to capture your pictures or videos.  
 #
 ## `Demo Video:`
+![Demo Video](https://github.com/I-AkiraX/Nostalgic-Game-Filter/blob/master/.xmaterials/demo_vid_gif.gif)
 #
-
-https://user-images.githubusercontent.com/81577824/158073638-d352a240-3de5-4f82-9491-d2b8009c3437.mp4
-
-
 ## `Find:`  
 You can visit my account to use this filter and check out more amazing filters created by me.  
 ✨ [Instagram](https://www.instagram.com/i_akirax)  
